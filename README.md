@@ -15,7 +15,7 @@ The report is co-produced every year since 2016 by the [Bertelsmann Stiftung](ht
 
 
 ## Report Description
-The 2018 SDG Index and Dashboards report presents a revised and updated assessment of countries’ distance to achieving the Sustainable Development Goals (SDGs). It includes detailed SDG Dashboards to help identify implementation priorities for the SDGs. The report also provides a ranking of countries by the aggregate SDG Index of overall performance.
+The SDG Index and Dashboards 2018 report presents a revised and updated assessment of countries’ distance to achieving the Sustainable Development Goals (SDGs). It includes detailed SDG Dashboards to help identify implementation priorities for the SDGs. The report also provides a ranking of countries by the aggregate SDG Index of overall performance.
 
 This year’s report includes several improvements and additions in comparison to previous versions. It incorporates trend data for the first time. New indicators have been added to cover more accurately the SDGs and associated targets with a special focus on “leave no one behind” for OECD member states. We present data for all 193 UN member states and estimate absolute SDG achievement gaps to complement per capita estimates. Building on the 2017 report, we expand the analysis of international SDG spillovers and present an overall SDG spillover index.
 
@@ -26,13 +26,13 @@ For data from our other projects, see https://github.com/sdsna
 
 The data is distributed in 2 files, each available in CSV or Stata format.
 
-1. Data from most recent year, 2018 Global Index Results, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
-2. Trend data, 2018 Global Index Time Series, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
+1. Data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
+2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
 
 
 ## Methodology
 
-[2018 SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
+[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
 
 ## License
 
