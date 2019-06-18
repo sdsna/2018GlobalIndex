@@ -4,8 +4,6 @@
 ## Global Responsibilities: Implementing the Goals
 Country-level data from 2018 Index and Dashboards
 
-[Project image]
-
 ## Project History
 Agenda 2030 and the Sustainable Development Goals, adopted by all member states of the United-Nations in 2015, describe a universal agenda that applies to and must be implemented by all countries. Sound metrics and data are critical for turning the SDGs into practical tools for problem solving.
 
@@ -26,13 +24,13 @@ For data from our other projects, see https://github.com/sdsna
 
 The data is distributed in 2 files, each available in CSV or Stata format.
 
-1. Data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
-2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
+1. Cross-sectional data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexResults.xlsx) or [Stata](https://github.com/2018GlobalIndex/blob/master/2018GlobalIndexResults.dta) format.
+2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.xlsx) or [Stata](https://github.com/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.dta) format.
 
 
 ## Methodology
 
-[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
+[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexMethodology.pdf)
 
 ## License
 
