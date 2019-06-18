@@ -18,7 +18,8 @@ The SDG Index and Dashboards 2018 report presents a revised and updated assessme
 This year’s report includes several improvements and additions in comparison to previous versions. It incorporates trend data for the first time. New indicators have been added to cover more accurately the SDGs and associated targets with a special focus on “leave no one behind” for OECD member states. We present data for all 193 UN member states and estimate absolute SDG achievement gaps to complement per capita estimates. Building on the 2017 report, we expand the analysis of international SDG spillovers and present an overall SDG spillover index.
 
 For more information on this report, see https://www.sdgindex.org/reports/2018/.
-For data from our other projects, see https://github.com/sdsna
+
+For data from our other projects, see https://github.com/sdsna.
 
 ## Data
 
@@ -49,9 +50,9 @@ Please notify us about any publications that result from the use of the SDG Inde
 
 If you have questions, please contact SDSN at <info@sdgindex.org>.
 
-For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de
+For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de.
 
-In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de
+In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de.
 
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat and the Bertelsmann Stiftung.
 
