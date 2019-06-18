@@ -4,8 +4,6 @@
 ## Global Responsibilities: Implementing the Goals
 Country-level data from 2018 Index and Dashboards
 
-[Project image]
-
 ## Project History
 Agenda 2030 and the Sustainable Development Goals, adopted by all member states of the United-Nations in 2015, describe a universal agenda that applies to and must be implemented by all countries. Sound metrics and data are critical for turning the SDGs into practical tools for problem solving.
 
@@ -20,19 +18,20 @@ The SDG Index and Dashboards 2018 report presents a revised and updated assessme
 This year’s report includes several improvements and additions in comparison to previous versions. It incorporates trend data for the first time. New indicators have been added to cover more accurately the SDGs and associated targets with a special focus on “leave no one behind” for OECD member states. We present data for all 193 UN member states and estimate absolute SDG achievement gaps to complement per capita estimates. Building on the 2017 report, we expand the analysis of international SDG spillovers and present an overall SDG spillover index.
 
 For more information on this report, see https://www.sdgindex.org/reports/2018/.
-For data from our other projects, see https://github.com/sdsna
+
+For data from our other projects, see https://github.com/sdsna.
 
 ## Data
 
 The data is distributed in 2 files, each available in CSV or Stata format.
 
-1. Data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
-2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
+1. Cross-sectional data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexResults.dta) format.
+2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.xlsx) or [Stata](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.dta) format.
 
 
 ## Methodology
 
-[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
+[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexMethodology.pdf)
 
 ## License
 
@@ -51,9 +50,9 @@ Please notify us about any publications that result from the use of the SDG Inde
 
 If you have questions, please contact SDSN at <info@sdgindex.org>.
 
-For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de
+For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de.
 
-In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de
+In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de.
 
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat and the Bertelsmann Stiftung.
 
