@@ -25,8 +25,8 @@ For data from our other projects, see https://github.com/sdsna.
 
 The data is distributed in 2 files, each available in CSV or Stata format.
 
-1. Cross-sectional data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexResults.xlsx) or [Stata](https://github.com/2018GlobalIndex/blob/master/2018GlobalIndexResults.dta) format.
-2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.xlsx) or [Stata](https://github.com/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.dta) format.
+1. Cross-sectional data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexResults.dta) format.
+2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.xlsx) or [Stata](https://github.com/sdsna/2018GlobalIndex/blob/master/2018GlobalIndexTimeSeries.dta) format.
 
 
 ## Methodology
